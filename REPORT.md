@@ -8,10 +8,10 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* <>
-* <>
-* <>
-* <>
+* 4024007186885962478 :Result is FAIL <https://github.com/testsan/java_1-1_task2/issues/1#issue-615225230>
+* 341425533450307 :Result is FAIL <https://github.com/testsan/java_1-1_task2/issues/2#issue-615225799>
+* 373450765312216 :Result is FAIL <https://github.com/testsan/java_1-1_task2/issues/3#issue-615226003>
+* 344200499435841 :Result is FAIL <https://github.com/testsan/java_1-1_task2/issues/4#issue-615226253>
 
 ## Описание процесса тестирования
 
@@ -61,7 +61,7 @@
 
 В качестве тестовых данных использовались данные с сайта:
  * <https://www.freeformatter.com/credit-card-number-generator-validator.html>
- * ExampleCards.md <>
+ * ExampleCards.md <https://github.com/testsan/java_1-1_task2/blob/master/ExampleCards.md>
 
 Тестирование производилось в следующем окружении:
 
