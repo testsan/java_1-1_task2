@@ -1,4 +1,4 @@
-# Credit Card Number Validator
+# Тестирование номеров кредитных карт разных платёжных систем
 
 ## Краткое описание
 
@@ -8,10 +8,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* 4024007186885962478 :Result is FAIL <https://github.com/testsan/java_1-1_task2/issues/1#issue-615225230>
-* 341425533450307 :Result is FAIL <https://github.com/testsan/java_1-1_task2/issues/2#issue-615225799>
-* 373450765312216 :Result is FAIL <https://github.com/testsan/java_1-1_task2/issues/3#issue-615226003>
-* 344200499435841 :Result is FAIL <https://github.com/testsan/java_1-1_task2/issues/4#issue-615226253>
+* Непроходят валидацию карты VISA длиной 19 цифр: <https://github.com/testsan/java_1-1_task2/issues/1#issue-615225230>
+* Непроходят валидацию карты American Express (AMEX) длиной 15 цифр: <https://github.com/testsan/java_1-1_task2/issues/2#issue-615225799>
+* Непроходят валидацию карты Diners Club - International длиной 14 цифр: <https://github.com/testsan/java_1-1_task2/issues/3#issue-615226003>
 
 ## Описание процесса тестирования
 
